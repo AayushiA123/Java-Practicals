@@ -1,0 +1,58 @@
+Core Java-
+
+Practical 1: Write a program to print “Hello world”.
+- If / else condition:
+
+Practical 2: Write a program to demonstrate the use of if / else statements. (E.g
+Define an 'age' variable and check your age).
+
+
+- Switch case statement:
+Practical 3: Write a program to find the current month name from the given number
+of the switch case.
+
+
+- While loop / do-while loop:
+Practical 4: Write a program to demonstrate the use of while loop and do while loop.
+(E.g print 1 to 10 numbers).
+
+
+- For loop:
+Practical 5: Write a program to demonstrate the example of the ‘for’ loop and print
+the below-mentioned pattern.
+
+
+- Break / Continue Statement:
+Practical 6: Write a program to demonstrate the example of a break/Continue
+statement (E.g. Use the loop for 10 numbers and stop the execution after 7 numbers
+and skip any number).
+
+
+- Constructors:
+Practical 7: Write a program to demonstrate the example of constructor and
+Parameterized constructor (E.g. Pass two integer parameters and apply any
+mathematical formula).
+
+
+- Operators:
+Practical 8: Apply EMI Calculator in Java - Java program to calculate EMI using
+Class, Object, Variables, Operators, and Datatypes.
+
+
+- Wrapper classes:
+Practical 9: Create a practical to compare two variables of Wrapper class using
+Wrapper classes.
+
+
+Practical 10: Create programs of all the string methods like charAt(), concat(),
+equals() etc.
+Practical 10A: Create programs to evaluate differences between == and .equals in
+String, Integer, and BigDecimal?
+- this / super:
+
+
+Practical 11: Write a practical to use this/super variable.
+- Static keyword:
+
+
+Practical 12: Write a program to demonstrate static methods, variables, and blocks

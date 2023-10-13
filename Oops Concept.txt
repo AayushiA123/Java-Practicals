@@ -1,0 +1,53 @@
+OOPS PRACTICALS-
+
+Data Abstraction:
+Practical 13: Write a program to demonstrate data abstraction.
+
+
+- Encapsulation:
+Practical 14: Write a program to demonstrate encapsulation.
+
+
+- Inheritance:
+Practical 15: Write a program to demonstrate all types of Inheritance concepts like.
+1. Single Inheritance
+2. Multi-level Inheritance
+3. Hierarchical Inheritance
+4. Hybrid Inheritance.
+
+
+- Polymorphism:
+Practical 16: Write a program to demonstrate two types of polymorphism like
+compile-time and runtime polymorphism.
+
+- Interface:
+Practical 17: Write a program to demonstrate the interface.
+
+
+- Exception Handling:
+Practical 18: Write a program to handle exceptions using try, catch, finally, throw,
+and throws keywords.
+
+
+- Array:
+Practical 19: Write a program to find the index of an array element.
+
+- Collections(Lists, Sets, Maps, Comparable, and Comparator Interface):
+Practical 20: Write a program to add string values(“Hello”,”world”,”$yourname” etc.)
+in the list and print all the values using an iterator.
+
+
+Practical 21: Write another program using Map and Set concepts.
+
+Practical 22: Write a program to prepare the list like(“A”, ”B”, ”C”, ”D”, ”A”, ”C”, ”E”,
+”E”, ”E”) and remove duplicate values of the list.
+
+
+Practical 23: Write a program to demonstrate comparable and comparator interface.
+- File Handling
+- Input Handling
+- String Handling
+Practical 24: Write a program to create a text file(The file name is “myTestFile”)
+and add your personal details to the test file.
+Practical 25: Write a program to read the data from a myTestFile file (Using File
+Handling, Input Handling, Loops, String Handling, and Exception Handling).
